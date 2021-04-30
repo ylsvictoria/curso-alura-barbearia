@@ -187,6 +187,7 @@ td, th {
 }
 
 .conteudo-beneficios {
+    display: flex;
 	width: 640px;
 	margin: 0 auto;
 }
